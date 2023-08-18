@@ -1,0 +1,1 @@
+proper git directory
