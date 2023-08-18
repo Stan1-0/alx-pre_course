@@ -1,1 +1,1 @@
-proper git directory
+proper git directory updated
